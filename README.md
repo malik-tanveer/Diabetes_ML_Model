@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🩺 Diabetes Prediction ML Model
@@ -273,7 +272,7 @@ Model Serialization
 ### Model Performance Comparison
 
 | Metric | Logistic Regression | Random Forest | Gradient Boosting |
-|--------|-------------------|---------------|--------------------|
+|--------|-------------------|---------------|-----------|
 | **Accuracy** | 0.7838 | 0.7922 | 0.8065 |
 | **Precision** | 0.7778 | 0.7857 | 0.7975 |
 | **Recall** | 0.6923 | 0.7436 | 0.7692 |
@@ -311,7 +310,7 @@ Diabetes_ML_Model/
 ## 🔧 Technical Stack
 
 | Component | Technology |
-|-----------|-----------|
+|-----------|------------|
 | **Language** | Python 3.8+ |
 | **ML Framework** | scikit-learn |
 | **Data Processing** | pandas, numpy |
